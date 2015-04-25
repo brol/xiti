@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: xiti 0.5\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2010-06-05T10:24:56+00:00\n"
+"Last-Translator: JC Denis\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add XITI marker to your blog"
+msgstr "Ajouter le marqueur XITI à votre blog"
+
+msgid "Adds the button Xiti Service"
+msgstr "Ajoute le bouton du service Xiti"
+
+#: index.php:19
+msgid "all black"
+msgstr "tout noir"
+
+#: index.php:20
+msgid "blue and black border"
+msgstr "bleu et bord noir"
+
+#: index.php:21
+msgid "red on black"
+msgstr "rouge sur noir"
+
+#: index.php:22
+msgid "all yellow"
+msgstr "tout jaune"
+
+#: index.php:23
+msgid "Red text on yellow"
+msgstr "texte rouge sur jaune"
+
+#: index.php:24
+msgid "Red and yellow"
+msgstr "rouge et jaune"
+
+#: index.php:25
+msgid "Red and black border"
+msgstr "rouge et bord noir"
+
+#: index.php:26
+msgid "Green and black border"
+msgstr "vert et bord noir"
+
+#: index.php:59
+msgid "Settings"
+msgstr "Paramètres"
+
+#: index.php:61
+msgid "Enable XITI"
+msgstr "Activer XITI"
+
+#: index.php:62
+msgid "Your XITI account number:"
+msgstr "Votre numéro de compte XITI :"
+
+#: index.php:63
+msgid "Image style:"
+msgstr "Style de l'image :"
+
+#: index.php:64
+msgid "Add to theme footer"
+msgstr "Ajouter au pied de page"
